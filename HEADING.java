@@ -1,12 +1,3 @@
+package BattleShip;
 
-public class HEADING {
-	public enum HEADING {
-		EAST, WEST, NORTH, SOUTH
-	}
-}
-
-
-public enum Day {
-    SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
-    THURSDAY, FRIDAY, SATURDAY 
-}
+public enum HEADING { NORTH, EAST, SOUTH, WEST }
